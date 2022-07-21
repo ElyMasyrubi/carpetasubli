@@ -1,0 +1,29 @@
+_id: req_4898abcf18b94cdba75cf5723b1f9060
+type: Request
+parentId: fld_d417c89b918d450abf0e3a0dd047e643
+modified: 1657389997465
+created: 1657340078841
+url: http://127.0.0.1:5000/api/producto/titema
+name: Traer todos las tematicas de producto por nombre
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: |-
+    {
+    			"nombre" : "Disney"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_1452175a98574427b73b7e4a50c9bca2
+authentication: {}
+metaSortKey: -1656677803506.7812
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

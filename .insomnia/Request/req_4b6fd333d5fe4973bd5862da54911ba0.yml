@@ -1,0 +1,29 @@
+_id: req_4b6fd333d5fe4973bd5862da54911ba0
+type: Request
+parentId: fld_3d862839f195424695d88a87e584fa22
+modified: 1657731036732
+created: 1657341438236
+url: http://127.0.0.1:5000//api/orders/peidos
+name: Ver el Estado de un pedido
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: |-
+    {
+    			"estado" : "Send3"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_5e366c11d4ea40b8989eeb0b5c3fa872
+authentication: {}
+metaSortKey: -1657077086563.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

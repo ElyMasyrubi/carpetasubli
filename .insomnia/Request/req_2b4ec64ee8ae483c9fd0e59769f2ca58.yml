@@ -1,0 +1,29 @@
+_id: req_2b4ec64ee8ae483c9fd0e59769f2ca58
+type: Request
+parentId: fld_5e360c4ccb1d4d02a608d12631c779a7
+modified: 1657820084957
+created: 1657161055700
+url: http://127.0.0.1:5000//api/condition/registro
+name: Registro de Estado
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |
+    { 
+    		"nombre" : "Estado1"
+    }		
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_cd09e2d722de4525a2643cb064b023f6
+authentication: {}
+metaSortKey: -1657161055700
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

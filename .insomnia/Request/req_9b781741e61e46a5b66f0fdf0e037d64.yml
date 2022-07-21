@@ -1,0 +1,31 @@
+_id: req_9b781741e61e46a5b66f0fdf0e037d64
+type: Request
+parentId: fld_eebb4634ccac40a089826e8d2467754e
+modified: 1656616996748
+created: 1656381130148
+url: http://127.0.0.1:5000/login
+name: login
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    			"username": "kesy",
+    			"password" : "123456"
+
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_bdff7b1fa5b04c1ab5f93cfdcb925a77
+authentication: {}
+metaSortKey: -1655376259481
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

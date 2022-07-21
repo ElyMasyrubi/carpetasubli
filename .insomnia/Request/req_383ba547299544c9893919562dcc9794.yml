@@ -1,0 +1,29 @@
+_id: req_383ba547299544c9893919562dcc9794
+type: Request
+parentId: fld_3e078809c2f849d2ae2553bdb0bb401f
+modified: 1656869869046
+created: 1653886391701
+url: http://127.0.0.1:5000/api/movies/update/1b652802-f657-4ff3-ae36-b4316f342be6
+name: Update Movie
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"title" : "The s"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_3c31330d7ae74131849c1651840bc23d
+authentication: {}
+metaSortKey: -1653886391701
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

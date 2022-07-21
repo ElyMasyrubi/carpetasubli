@@ -1,0 +1,26 @@
+_id: req_6d614d967bed4e0fb8884bc74205a4db
+type: Request
+parentId: fld_3e078809c2f849d2ae2553bdb0bb401f
+modified: 1656966186955
+created: 1653881764450
+url: http://127.0.0.1:5000/api/movies
+name: Get Movies
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_0b0b4a9be2fd4b7aba46e4a3091bcd08
+authentication: {}
+metaSortKey: -1653881764450
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

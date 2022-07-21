@@ -1,0 +1,21 @@
+_id: req_1463db942e694e1fbb464199689ae8d0
+type: Request
+parentId: fld_3d862839f195424695d88a87e584fa22
+modified: 1657216797865
+created: 1657077482975
+url: http://127.0.0.1:5000//api/orders/pedidosid/1
+name: Ver Pedidos por id
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1656980777486.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

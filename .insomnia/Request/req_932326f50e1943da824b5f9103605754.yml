@@ -1,0 +1,21 @@
+_id: req_932326f50e1943da824b5f9103605754
+type: Request
+parentId: fld_8b58e0399a8d42fbb41513e261e5d1d5
+modified: 1654629337699
+created: 1654629128798
+url: http://localhost:1337/api/posts?filters[publishedAt][$gt]=2022-06-07T19:14:00.796Z
+name: Post Por Fecha
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1653948415593.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

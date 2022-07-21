@@ -1,0 +1,21 @@
+_id: req_eaf96da831ad410f85fa9fc18b178db6
+type: Request
+parentId: fld_2b50e4caf182499ebca8e052229db106
+modified: 1657395643422
+created: 1657137199531
+url: https://sheltered-springs-82153.herokuapp.com/
+name: Home de ti de producto
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657137199531
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

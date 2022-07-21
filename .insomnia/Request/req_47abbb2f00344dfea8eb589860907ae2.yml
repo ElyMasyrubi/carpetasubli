@@ -1,0 +1,21 @@
+_id: req_47abbb2f00344dfea8eb589860907ae2
+type: Request
+parentId: fld_3e078809c2f849d2ae2553bdb0bb401f
+modified: 1653885961006
+created: 1653885712942
+url: http://127.0.0.1:5000/api/movies/delete/43edccc8-f407-4b14-9878-9a39768585d3
+name: Delete Movie
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1653885712942
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_3c8733bd5e88408b8990b3533f6dc3ce
+type: Request
+parentId: fld_91f1c5ed464247afb9d12aa79146dc1a
+modified: 1654745285088
+created: 1654745279340
+url: http://localhost:1337/api/productos?publicationState
+name: "Todos los productos "
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1654424812315.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

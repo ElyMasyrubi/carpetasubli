@@ -1,0 +1,29 @@
+_id: req_bb225e9903fa415bb51cf117df661524
+type: Request
+parentId: fld_3d862839f195424695d88a87e584fa22
+modified: 1657731034813
+created: 1657078197400
+url: http://127.0.0.1:5000//api/orders/userid
+name: Todos los pedidos de un usuario
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: |-
+    {
+    			"id_usuario" : "15"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_5e366c11d4ea40b8989eeb0b5c3fa872
+authentication: {}
+metaSortKey: -1657078197400
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

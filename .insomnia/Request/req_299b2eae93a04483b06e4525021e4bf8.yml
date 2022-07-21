@@ -1,0 +1,26 @@
+_id: req_299b2eae93a04483b06e4525021e4bf8
+type: Request
+parentId: fld_eebb4634ccac40a089826e8d2467754e
+modified: 1656560061860
+created: 1656437877675
+url: http://127.0.0.1:5000/user
+name: Get user
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_bdff7b1fa5b04c1ab5f93cfdcb925a77
+authentication: {}
+metaSortKey: -1654880417891
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,26 @@
+_id: req_3ada4cfa79394a5c9ec1062177410971
+type: Request
+parentId: fld_eebb4634ccac40a089826e8d2467754e
+modified: 1656385319718
+created: 1656385313054
+url: http://127.0.0.1:5000/logout
+name: logout
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_bdff7b1fa5b04c1ab5f93cfdcb925a77
+authentication: {}
+metaSortKey: -1655045698421
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

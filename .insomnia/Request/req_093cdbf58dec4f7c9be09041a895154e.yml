@@ -1,0 +1,21 @@
+_id: req_093cdbf58dec4f7c9be09041a895154e
+type: Request
+parentId: fld_5e360c4ccb1d4d02a608d12631c779a7
+modified: 1657164482417
+created: 1657164472935
+url: http://127.0.0.1:5000//api/condition/allcondition
+name: Ver todos los Estados
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657159874595.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

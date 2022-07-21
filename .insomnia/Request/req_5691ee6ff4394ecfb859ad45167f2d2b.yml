@@ -1,0 +1,26 @@
+_id: req_5691ee6ff4394ecfb859ad45167f2d2b
+type: Request
+parentId: fld_12fdfe8c409e428db1fcf517e2af74b8
+modified: 1657164081618
+created: 1657164066037
+url: http://127.0.0.1:5000//api/type_of_job/delete/1
+name: Delete por id
+description: ""
+method: DELETE
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_6f3de1232fc542cba2738520a721d3ad
+authentication: {}
+metaSortKey: -1657159038307.875
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

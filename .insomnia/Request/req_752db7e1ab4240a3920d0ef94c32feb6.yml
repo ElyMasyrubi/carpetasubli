@@ -1,0 +1,29 @@
+_id: req_752db7e1ab4240a3920d0ef94c32feb6
+type: Request
+parentId: fld_d417c89b918d450abf0e3a0dd047e643
+modified: 1657412103997
+created: 1657341276357
+url: http://127.0.0.1:5000/api/producto/campo
+name: " Ver un campo personalizado de producto"
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: |-
+    {
+    			"campopersonalizado" : "false"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_ccfe37aadf814b7ba24d5933c1811246
+authentication: {}
+metaSortKey: -1656686493136.3906
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

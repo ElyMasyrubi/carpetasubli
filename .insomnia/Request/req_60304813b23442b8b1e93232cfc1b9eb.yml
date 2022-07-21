@@ -1,0 +1,31 @@
+_id: req_60304813b23442b8b1e93232cfc1b9eb
+type: Request
+parentId: fld_b4c31e83bea64aabb2d2da4be3d41c0a
+modified: 1656869859243
+created: 1655866821502
+url: http://127.0.0.1:5000/api/users/1
+name: Api-user-delete
+description: ""
+method: DELETE
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"username" : "nezuko",
+    	"email" : "nezuko@mail.com",
+    	"password": "n123456"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_99aee9f2d2b94cc8979c920ea73b4ecc
+authentication: {}
+metaSortKey: -1652626433250.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

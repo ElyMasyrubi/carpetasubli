@@ -1,0 +1,21 @@
+_id: req_5fcec3073bcd474bab77e787b725a3f7
+type: Request
+parentId: fld_0e93e93eaf6f4a22b4565df187703704
+modified: 1657164376235
+created: 1657164370924
+url: http://127.0.0.1:5000//api/custom_field/delete/2
+name: Delete por id
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657159097458.375
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

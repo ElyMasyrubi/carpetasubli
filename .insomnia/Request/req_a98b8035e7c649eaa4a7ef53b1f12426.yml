@@ -1,0 +1,21 @@
+_id: req_a98b8035e7c649eaa4a7ef53b1f12426
+type: Request
+parentId: fld_0e93e93eaf6f4a22b4565df187703704
+modified: 1657164226499
+created: 1657164219638
+url: http://127.0.0.1:5000//api/custom_field/allcustom
+name: Ver todos los campos perzonalizados
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657159203713.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

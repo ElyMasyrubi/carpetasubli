@@ -1,0 +1,29 @@
+_id: req_165077bbf5c7487a9857eb00b8434bd3
+type: Request
+parentId: fld_5e360c4ccb1d4d02a608d12631c779a7
+modified: 1657666696167
+created: 1657666517821
+url: http://127.0.0.1:5000//api/condition/updates/1
+name: Update
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |
+    { 
+    		"nombre" : "Estadosssss1"
+    }		
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_cd09e2d722de4525a2643cb064b023f6
+authentication: {}
+metaSortKey: -1657160964673
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

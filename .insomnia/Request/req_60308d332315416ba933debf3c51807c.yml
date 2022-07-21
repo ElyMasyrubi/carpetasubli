@@ -1,0 +1,21 @@
+_id: req_60308d332315416ba933debf3c51807c
+type: Request
+parentId: fld_12fdfe8c409e428db1fcf517e2af74b8
+modified: 1657495330889
+created: 1657163868621
+url: https://sheltered-springs-82153.herokuapp.com/api/type_of_job/
+name: Home de tipo de trabajo
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657158967111.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

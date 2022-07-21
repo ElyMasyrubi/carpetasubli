@@ -1,0 +1,21 @@
+_id: req_6867dc9cd39748369f158c02cf928b60
+type: Request
+parentId: fld_91f1c5ed464247afb9d12aa79146dc1a
+modified: 1655752621033
+created: 1655748671614
+url: http://localhost:1337/api/pedidos?filters
+name: Todos los Pedidos de un usuario
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1654569974838.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,37 @@
+_id: req_ed266c632c424a8eb3d0842565ad0dcb
+type: Request
+parentId: fld_9d9813c58c9e4b96a49a64019ec1997b
+modified: 1657666504432
+created: 1656641491017
+url: http://127.0.0.1:5000/api/login/update/2
+name: Update
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |
+    { 	
+    		"name" : "MAnuel",
+    		"lastname" : "Garcia",
+    		"username": "usuario2",
+    		"password" : "0000",
+    		"email" : "usuario1@mail.com",
+    		"phone" : "305123123",
+    		"adress" : "av 12 sec 45",
+    		"favorito" : 1,
+    		"pedidos" : 1
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_35d5fb5513d2459f896474f3f1412182
+authentication: {}
+metaSortKey: -1656619683351.7812
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,31 @@
+_id: req_ec4c64e8fc5f4ae3887ebc5d60391279
+type: Request
+parentId: fld_b4c31e83bea64aabb2d2da4be3d41c0a
+modified: 1656869858272
+created: 1655865930584
+url: http://127.0.0.1:5000/api/users
+name: Api-user-get
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"username" : "nezuko",
+    	"email" : "nezuko@mail.com",
+    	"password": "n123456"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_99aee9f2d2b94cc8979c920ea73b4ecc
+authentication: {}
+metaSortKey: -1652626433263
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

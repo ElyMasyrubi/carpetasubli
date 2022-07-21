@@ -1,0 +1,21 @@
+_id: req_a87d9202f69545a4b62c4b4c2f10cc5a
+type: Request
+parentId: fld_91f1c5ed464247afb9d12aa79146dc1a
+modified: 1657412139885
+created: 1655744922107
+url: http://localhost:1337/api/tipo-de-productos?publicationState
+name: Todos los tipos-de-producto
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1654188923216.0312
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

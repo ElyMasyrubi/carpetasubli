@@ -1,0 +1,21 @@
+_id: req_e3e00dff88fc47a28d6f59ec916b7440
+type: Request
+parentId: fld_0e93e93eaf6f4a22b4565df187703704
+modified: 1657164192174
+created: 1657159345387
+url: http://127.0.0.1:5000//api/custom_field
+name: Home de campo personalizado
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657159345387
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

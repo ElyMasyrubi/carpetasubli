@@ -1,0 +1,33 @@
+_id: req_b7f9b29865b14837ad41b2eb456777f5
+type: Request
+parentId: fld_eebb4634ccac40a089826e8d2467754e
+modified: 1656611788226
+created: 1656037381601
+url: http://127.0.0.1:5000/api/registro
+name: Registro
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |
+    
+    { 	
+    		"fullname" : "eeeeeeeeeeeeeeeee",
+    		"username": "saaasdfa",
+    		"password" : "123456",
+    		"email" : "kessdasdsssssy@mail.com"	
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_bdff7b1fa5b04c1ab5f93cfdcb925a77
+authentication: {}
+metaSortKey: -1656037381601
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

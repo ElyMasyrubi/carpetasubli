@@ -1,0 +1,21 @@
+_id: req_60eb69596a814d858dbaf211de90613e
+type: Request
+parentId: fld_2b50e4caf182499ebca8e052229db106
+modified: 1657255633181
+created: 1657162527887
+url: http://127.0.0.1:5000//api/kind_of_product/productosid/1
+name: Ver los tipos de producto por id
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657162527887
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

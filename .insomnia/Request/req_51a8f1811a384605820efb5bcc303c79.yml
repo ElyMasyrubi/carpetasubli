@@ -1,0 +1,29 @@
+_id: req_51a8f1811a384605820efb5bcc303c79
+type: Request
+parentId: fld_d417c89b918d450abf0e3a0dd047e643
+modified: 1657412085645
+created: 1657338222592
+url: http://127.0.0.1:5000/api/producto/tipnombr
+name: Traer todos los tipos de producto por nombre
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: |-
+    {
+    			"tipodeproducto" : "remeras"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_1452175a98574427b73b7e4a50c9bca2
+authentication: {}
+metaSortKey: -1656683596593.1875
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

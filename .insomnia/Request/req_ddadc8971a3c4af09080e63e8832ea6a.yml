@@ -1,0 +1,31 @@
+_id: req_ddadc8971a3c4af09080e63e8832ea6a
+type: Request
+parentId: fld_b4c31e83bea64aabb2d2da4be3d41c0a
+modified: 1656869861030
+created: 1652626433313
+url: http://127.0.0.1:5000
+name: Api-users-post
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"username" : "ssss",
+    	"email" : "sssss@mail.com",
+    	"password": "n123456"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_99aee9f2d2b94cc8979c920ea73b4ecc
+authentication: {}
+metaSortKey: -1652626433238
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

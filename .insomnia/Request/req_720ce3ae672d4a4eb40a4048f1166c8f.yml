@@ -1,0 +1,21 @@
+_id: req_720ce3ae672d4a4eb40a4048f1166c8f
+type: Request
+parentId: fld_3e078809c2f849d2ae2553bdb0bb401f
+modified: 1656966226194
+created: 1653882354384
+url: http://127.0.0.1:5000/api/movie/120
+name: Get Movie
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1653881764400
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

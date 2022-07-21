@@ -1,0 +1,21 @@
+_id: req_c58bbd251f7648c1a77ae3fbe65aa4f3
+type: Request
+parentId: fld_5e360c4ccb1d4d02a608d12631c779a7
+modified: 1657666593427
+created: 1657159989380
+url: http://127.0.0.1:5000//api/condition/update
+name: Home de Estado
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657159989380
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

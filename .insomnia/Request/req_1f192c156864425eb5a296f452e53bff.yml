@@ -1,0 +1,21 @@
+_id: req_1f192c156864425eb5a296f452e53bff
+type: Request
+parentId: fld_d417c89b918d450abf0e3a0dd047e643
+modified: 1657254031228
+created: 1656725717241
+url: http://127.0.0.1:5000/api/producto/delete/4
+name: Eliminar productos por id
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1656672010420.375
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

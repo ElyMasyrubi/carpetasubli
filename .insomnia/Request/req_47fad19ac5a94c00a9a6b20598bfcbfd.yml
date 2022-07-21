@@ -1,0 +1,21 @@
+_id: req_47fad19ac5a94c00a9a6b20598bfcbfd
+type: Request
+parentId: fld_d417c89b918d450abf0e3a0dd047e643
+modified: 1657818623060
+created: 1656725451928
+url: http://127.0.0.1:5000/api/producto/productosid/1
+name: Ver productos por id
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1656667375951.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

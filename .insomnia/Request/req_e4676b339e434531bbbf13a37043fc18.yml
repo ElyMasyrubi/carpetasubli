@@ -1,0 +1,39 @@
+_id: req_e4676b339e434531bbbf13a37043fc18
+type: Request
+parentId: fld_d417c89b918d450abf0e3a0dd047e643
+modified: 1657818614893
+created: 1656695338485
+url: http://127.0.0.1:5000/api/producto/registro
+name: Registre Productos
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |
+    { 	
+    		"code" : "3",
+    		"title" : "camisra",
+    		"description": "muy estado",
+    		"price" : 25,
+    		"porcentajedeOferta" : 10,
+    		"Mainimage" : "305123123",
+    		"Tipodeproducto" : "remeras",
+    		"Tematica" : "Disney",
+    		"Esdestacado" : "True",
+    		"Tipodetrabajo" : "20",
+    		"Campopersonalizado" : "false"
+    }		
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_07f00b52a32346dc8d0845072282c344
+authentication: {}
+metaSortKey: -1656658107013
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

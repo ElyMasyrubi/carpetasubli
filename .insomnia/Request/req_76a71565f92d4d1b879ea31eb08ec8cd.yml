@@ -1,0 +1,21 @@
+_id: req_76a71565f92d4d1b879ea31eb08ec8cd
+type: Request
+parentId: fld_0e93e93eaf6f4a22b4565df187703704
+modified: 1657257125960
+created: 1657164324303
+url: http://127.0.0.1:5000//api/custom_field/idcustom/1
+name: Ver campos por id
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657159132876.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

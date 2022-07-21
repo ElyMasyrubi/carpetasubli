@@ -1,0 +1,32 @@
+_id: req_6552e8079f684fbfbfde6a7ace5ab63b
+type: Request
+parentId: fld_9d9813c58c9e4b96a49a64019ec1997b
+modified: 1658361337809
+created: 1656616994788
+url: http://127.0.0.1:5000/api/login/login
+name: login
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    		
+    			"username": "ssss",
+    			"password" : "0000"
+
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_f8711b8d968f4e1d9a74c9185713c694
+authentication: {}
+metaSortKey: -1656619394354.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_0ad602f2d1a64b97a794c919e17610e3
+type: Request
+parentId: fld_12fdfe8c409e428db1fcf517e2af74b8
+modified: 1657495309639
+created: 1657159062040
+url: http://127.0.0.1:5000//api/type_of_job/alltype
+name: Ver todos los tipos de trabajo
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657159062040
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

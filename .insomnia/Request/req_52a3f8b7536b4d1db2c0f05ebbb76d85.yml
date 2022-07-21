@@ -1,0 +1,21 @@
+_id: req_52a3f8b7536b4d1db2c0f05ebbb76d85
+type: Request
+parentId: fld_8b58e0399a8d42fbb41513e261e5d1d5
+modified: 1654709758517
+created: 1654627690092
+url: http://localhost:1337/api/tipo-de-productos?publicationState=preview
+name: Todos los Post
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1654010439485.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

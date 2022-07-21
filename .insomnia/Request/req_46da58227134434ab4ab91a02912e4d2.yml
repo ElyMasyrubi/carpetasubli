@@ -1,0 +1,30 @@
+_id: req_46da58227134434ab4ab91a02912e4d2
+type: Request
+parentId: fld_bc83f52d8b064c57986163be1c03742b
+modified: 1657819605667
+created: 1657160556588
+url: http://127.0.0.1:5000//api/theme/registro
+name: Registro de Tematica
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |
+    { 	
+    	
+    		"nombre" : "Netflix"
+    }		
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_15def490915446f78ba8762a13d5715a
+authentication: {}
+metaSortKey: -1657160556588
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

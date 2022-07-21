@@ -1,0 +1,21 @@
+_id: req_800cba47890b412dbad95b2b3c62cb7c
+type: Request
+parentId: fld_0b6e73ffa9aa452abd7c43b90e62788e
+modified: 1657159770219
+created: 1657159759811
+url: http://127.0.0.1:5000//api/payment_details
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657159759811
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

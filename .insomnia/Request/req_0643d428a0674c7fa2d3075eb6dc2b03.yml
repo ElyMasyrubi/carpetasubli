@@ -1,0 +1,21 @@
+_id: req_0643d428a0674c7fa2d3075eb6dc2b03
+type: Request
+parentId: fld_9d9813c58c9e4b96a49a64019ec1997b
+modified: 1657395756951
+created: 1656620049659
+url: http://127.0.0.1:5000/api/login/user
+name: Ver todos los Users
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1656619559517.125
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

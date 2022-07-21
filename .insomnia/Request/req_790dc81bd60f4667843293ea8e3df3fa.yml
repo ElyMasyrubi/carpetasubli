@@ -1,0 +1,21 @@
+_id: req_790dc81bd60f4667843293ea8e3df3fa
+type: Request
+parentId: fld_d417c89b918d450abf0e3a0dd047e643
+modified: 1657412099127
+created: 1656695182766
+url: http://127.0.0.1:5000/api/producto/productos
+name: Todos los productos
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1656695182766
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

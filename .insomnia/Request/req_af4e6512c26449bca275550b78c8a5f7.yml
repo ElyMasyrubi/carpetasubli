@@ -1,0 +1,21 @@
+_id: req_af4e6512c26449bca275550b78c8a5f7
+type: Request
+parentId: fld_3d862839f195424695d88a87e584fa22
+modified: 1657136115788
+created: 1657075975726
+url: http://127.0.0.1:5000//api/orders/pedidos
+name: Ver Todos los pedidos
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657075975727
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

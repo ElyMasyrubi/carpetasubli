@@ -1,0 +1,21 @@
+_id: req_54fca0c6eb484271ab8a225ce541fe24
+type: Request
+parentId: fld_8b58e0399a8d42fbb41513e261e5d1d5
+modified: 1654707213779
+created: 1654632850914
+url: http://localhost:1337/api/posts?populate=*
+name: Todos  campos
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1654072463377.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

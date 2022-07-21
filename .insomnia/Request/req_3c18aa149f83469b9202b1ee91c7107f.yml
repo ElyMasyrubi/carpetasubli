@@ -1,0 +1,21 @@
+_id: req_3c18aa149f83469b9202b1ee91c7107f
+type: Request
+parentId: fld_8b58e0399a8d42fbb41513e261e5d1d5
+modified: 1654633929270
+created: 1654633821966
+url: http://localhost:1337/api/posts/1
+name: Get-Post By ID
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1654103475323.875
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

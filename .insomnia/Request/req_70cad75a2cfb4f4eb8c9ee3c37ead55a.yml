@@ -1,0 +1,33 @@
+_id: req_70cad75a2cfb4f4eb8c9ee3c37ead55a
+type: Request
+parentId: fld_91f1c5ed464247afb9d12aa79146dc1a
+modified: 1655749866187
+created: 1655741145791
+url: http://localhost:1337/api/productos?&filters[PorcentajeDeOferta][$gt]=0
+name: Productos con oferta
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_66a9f1eaf235448bacda85df5829c134
+    name: filters
+    value: "[title][$eq]=text2"
+    description: ""
+    disabled: true
+    type: text
+    multiline: false
+  - id: pair_ad8978c2e9f2458384df6c97f01f2051
+    name: ""
+    value: ""
+    description: ""
+    disabled: true
+headers: []
+authentication: {}
+metaSortKey: -1654352231054.125
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

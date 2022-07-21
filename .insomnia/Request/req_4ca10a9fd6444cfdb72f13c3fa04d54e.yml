@@ -1,0 +1,37 @@
+_id: req_4ca10a9fd6444cfdb72f13c3fa04d54e
+type: Request
+parentId: fld_9d9813c58c9e4b96a49a64019ec1997b
+modified: 1658361335749
+created: 1656611752215
+url: http://127.0.0.1:5000/api/login/registro
+name: registro
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |
+    
+    { 	
+    		"name" : "Mauss",
+    		"lastname" : "ssss",
+    		"username": "ssss",
+    		"password" : "0000",
+    		"email" : "usuario1@mail.com",
+    		"phone" : "305123123",
+    		"adress" : "av 12 sec 45"
+
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_f8711b8d968f4e1d9a74c9185713c694
+authentication: {}
+metaSortKey: -1656619394404.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,33 @@
+_id: req_a8918094e5c64079bcce2a44ca661275
+type: Request
+parentId: fld_8b58e0399a8d42fbb41513e261e5d1d5
+modified: 1655747940619
+created: 1654634055919
+url: http://localhost:1337/api/posts
+name: CreatePost
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"data": {
+    		"Title": "React y sus rutas ",
+    		"Content": "Rutas contenido...",
+    		"slug": "react-sus-rutas"
+    	}
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_10c8d9619e2b42abaab2db8d8a3ecdf1
+authentication: {}
+metaSortKey: -1654118981296.9375
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

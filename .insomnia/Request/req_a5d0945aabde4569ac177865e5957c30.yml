@@ -1,0 +1,21 @@
+_id: req_a5d0945aabde4569ac177865e5957c30
+type: Request
+parentId: fld_bc83f52d8b064c57986163be1c03742b
+modified: 1657163587623
+created: 1657163581244
+url: http://127.0.0.1:5000//api/theme/delete/1
+name: Delete id
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657163332392.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

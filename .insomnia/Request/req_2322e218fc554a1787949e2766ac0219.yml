@@ -1,0 +1,31 @@
+_id: req_2322e218fc554a1787949e2766ac0219
+type: Request
+parentId: fld_2b50e4caf182499ebca8e052229db106
+modified: 1657819470751
+created: 1657160322599
+url: http://127.0.0.1:5000//api/kind_of_product/registro
+name: Registro de tipo de producto
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |
+    { 	
+    	
+    		"nombre" : "Manuel3",
+    		"tipos_del_productos" : "Pantalon33"
+    }		
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_1dd7c6296c6747fe8c1f494b112fe3e0
+authentication: {}
+metaSortKey: -1657160322599
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

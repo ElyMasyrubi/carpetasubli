@@ -1,0 +1,35 @@
+_id: req_bf2ce16479474f3c8c51689577c0839f
+type: Request
+parentId: fld_3d862839f195424695d88a87e584fa22
+modified: 1657819101308
+created: 1657076526029
+url: http://127.0.0.1:5000//api/orders/registro
+name: Registro Pedidos
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |
+    { 	
+    	
+    		"id_usuario" : "1",
+    		"fecha" : 2001,
+    		"productos": "camiseta",
+    		"precioTotal": 190,
+    		"detalledepago" : "Card3",
+    		"estado" : "Send3"
+    }		
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_f3727f409f8548c48a3878190d214f26
+authentication: {}
+metaSortKey: -1656885579246.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

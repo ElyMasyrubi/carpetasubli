@@ -1,0 +1,31 @@
+_id: req_0a4d697701b841b5bf6709dc2820e2a4
+type: Request
+parentId: fld_0e93e93eaf6f4a22b4565df187703704
+modified: 1657819999757
+created: 1657161365240
+url: http://127.0.0.1:5000//api/custom_field/registro
+name: Registro de campo perzonalizado
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    { 	
+    	
+    		"nombre" : "campo1",
+    		"boolea" : "True"
+    }		
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_b64c144afd704b23a574808ec2b8d320
+authentication: {}
+metaSortKey: -1657161365240
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

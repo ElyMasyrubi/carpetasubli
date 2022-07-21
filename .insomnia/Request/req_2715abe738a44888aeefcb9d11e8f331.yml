@@ -1,0 +1,21 @@
+_id: req_2715abe738a44888aeefcb9d11e8f331
+type: Request
+parentId: fld_3d862839f195424695d88a87e584fa22
+modified: 1657163117735
+created: 1657163101573
+url: http://127.0.0.1:5000//api/orders/delete/1
+name: New Request
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657163101573
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

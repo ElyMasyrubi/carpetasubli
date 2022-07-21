@@ -1,0 +1,21 @@
+_id: req_ff3915ade2d34d2b891327cc879f4b38
+type: Request
+parentId: fld_bc83f52d8b064c57986163be1c03742b
+modified: 1657163443131
+created: 1657163409332
+url: http://127.0.0.1:5000//api/theme/alltheme
+name: Ver todas las tematicas
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657163409332
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

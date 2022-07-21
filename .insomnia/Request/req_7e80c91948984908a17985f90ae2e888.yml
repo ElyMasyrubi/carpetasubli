@@ -1,0 +1,21 @@
+_id: req_7e80c91948984908a17985f90ae2e888
+type: Request
+parentId: fld_2b50e4caf182499ebca8e052229db106
+modified: 1657162832991
+created: 1657162686719
+url: http://127.0.0.1:5000//api/kind_of_product/delete/2
+name: Delete Tipo de producto por id
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657162686719
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

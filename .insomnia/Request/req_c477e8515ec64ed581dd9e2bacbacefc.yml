@@ -1,0 +1,21 @@
+_id: req_c477e8515ec64ed581dd9e2bacbacefc
+type: Request
+parentId: fld_2b50e4caf182499ebca8e052229db106
+modified: 1657162808441
+created: 1657162364747
+url: http://127.0.0.1:5000//api/kind_of_product/tpproduct
+name: Ver todos los tipos de productos
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657162364747
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

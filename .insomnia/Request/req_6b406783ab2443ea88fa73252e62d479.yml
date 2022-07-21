@@ -1,0 +1,21 @@
+_id: req_6b406783ab2443ea88fa73252e62d479
+type: Request
+parentId: fld_bc83f52d8b064c57986163be1c03742b
+modified: 1657163548258
+created: 1657163534419
+url: http://127.0.0.1:5000//api/theme/themeid/3
+name: Ver Tematicas por id
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657163255452.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

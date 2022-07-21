@@ -1,0 +1,21 @@
+_id: req_ab1a4593ba72499b8d22751a58208067
+type: Request
+parentId: fld_91f1c5ed464247afb9d12aa79146dc1a
+modified: 1655748850039
+created: 1654715137361
+url: http://localhost:1337/api/pedidos
+name: Todos los Pedidos
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1654715137361
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

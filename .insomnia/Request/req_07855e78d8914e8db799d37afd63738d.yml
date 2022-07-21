@@ -1,0 +1,29 @@
+_id: req_07855e78d8914e8db799d37afd63738d
+type: Request
+parentId: fld_d417c89b918d450abf0e3a0dd047e643
+modified: 1657818626084
+created: 1657340620862
+url: http://127.0.0.1:5000/api/producto/tipotra
+name: " Ver un tipo_de_trabajo desde los productos"
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: |-
+    {
+    			"tipodetrabajo" : "20"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_ccfe37aadf814b7ba24d5933c1811246
+authentication: {}
+metaSortKey: -1656689389679.5938
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

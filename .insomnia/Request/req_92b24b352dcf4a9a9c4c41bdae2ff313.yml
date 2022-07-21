@@ -1,0 +1,31 @@
+_id: req_92b24b352dcf4a9a9c4c41bdae2ff313
+type: Request
+parentId: fld_3e078809c2f849d2ae2553bdb0bb401f
+modified: 1657078957073
+created: 1653883188625
+url: http://127.0.0.1:5000/api/movies/add
+name: add Movie
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"title" : "Pescu",
+    	"duration" : 141,
+    	"released": "2007-12-04"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_8cf687f58db3450ca894adde8f20f700
+authentication: {}
+metaSortKey: -1653881764350
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

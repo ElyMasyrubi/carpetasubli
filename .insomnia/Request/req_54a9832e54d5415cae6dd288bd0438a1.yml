@@ -1,0 +1,31 @@
+_id: req_54a9832e54d5415cae6dd288bd0438a1
+type: Request
+parentId: fld_12fdfe8c409e428db1fcf517e2af74b8
+modified: 1657819940065
+created: 1657160873646
+url: http://127.0.0.1:5000//api/type_of_job/registro
+name: Registro de tipo de tabajo
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |
+    { 	
+    	
+    		"nombre" : "sublimado/Estampado",
+    	  "boolea": "False"
+    }		
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_6c1ee8557853437096bd608865091071
+authentication: {}
+metaSortKey: -1657160873646
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

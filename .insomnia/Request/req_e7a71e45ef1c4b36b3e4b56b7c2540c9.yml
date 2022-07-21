@@ -1,0 +1,21 @@
+_id: req_e7a71e45ef1c4b36b3e4b56b7c2540c9
+type: Request
+parentId: fld_5e360c4ccb1d4d02a608d12631c779a7
+modified: 1657256720193
+created: 1657164570889
+url: http://127.0.0.1:5000//api/condition/idcondition/2
+name: Ver los Estados por ID
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657159817203.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
